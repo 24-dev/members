@@ -1,7 +1,8 @@
 List Member of 24-dev
 
-- Iqbal 
+- Iqbal
 - dimas
 - Syamil
 - Azhar
+- Lana
 
