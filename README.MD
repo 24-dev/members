@@ -1,4 +1,6 @@
 List Member of 24-dev
 
-- Iqbal 
+- Iqbal
 - dimas
+- Haditya
+- rakha
