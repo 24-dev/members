@@ -4,3 +4,4 @@ List Member of 24-dev
 - dimas
 - Azhar
 - Lana
+- Rakha Zahran Nurfirmansyah
